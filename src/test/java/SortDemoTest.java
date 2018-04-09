@@ -5,8 +5,6 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import main.java.Item;
-import main.java.SortAlgos;
 import main.java.SortDemoData;
 
 class SortDemoTest {
